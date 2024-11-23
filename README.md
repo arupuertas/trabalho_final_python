@@ -82,4 +82,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas no ambiente:
 ## **Autores**
 Aruã Puertas RA: 132588  
 Lucas Fontan RA: 180348  
-Luigi Ianaconi RA: 
+Luigi Ianaconi RA: 180208  
+
+![Cat GIF](https://media.giphy.com/media/ZQydTwmM6KAl0Ltf5i/giphy.gif)
+
