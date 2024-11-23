@@ -1,4 +1,6 @@
-# README - Trabalho Final de Algoritmos e Programação com Linguagem Python - 2024PGS2M1
+# Trabalho Final de Algoritmos e Programação com Linguagem Python - 2024PGS2M1
+
+![Titanic GIF](https://media.giphy.com/media/XpzQjrE95ZTSW52WH9/giphy.gif)
 
 ## **Descrição do Projeto**
 
@@ -78,6 +80,6 @@ Certifique-se de ter as seguintes bibliotecas instaladas no ambiente:
 ---
 
 ## **Autores**
-Aruã Puertas RA: 132588
-Lucas Fontan RA: 180348
+Aruã Puertas RA: 132588  
+Lucas Fontan RA: 180348  
 Luigi Ianaconi RA: 
